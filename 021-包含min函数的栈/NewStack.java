@@ -1,10 +1,7 @@
-package 剑指offer.包含min函数的栈;
 
 import java.util.Stack;
 
-/**
- * Created by 窦博涵 on 2017/5/6.
- */
+
 public class NewStack {
 
 
